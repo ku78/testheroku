@@ -1,0 +1,1 @@
+ALTER SEQUENCE product_seq RESTART WITH 10;
